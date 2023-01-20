@@ -47,9 +47,6 @@
 ![3  카드 공개](https://user-images.githubusercontent.com/121847260/213597346-0cc219a0-4c8c-43b9-81cf-3520904a9acf.png)
 
 
-![4  게임 종료, 재시작](https://user-images.githubusercontent.com/121847260/213597348-d777a09e-4e84-4056-90f0-4cfc0b46b5f3.png)
-
-
 ![4  카드 승부](https://user-images.githubusercontent.com/121847260/213597349-9083c906-3501-4d9e-8303-5317699c5b9b.png)
 
 
