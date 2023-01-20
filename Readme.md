@@ -37,4 +37,26 @@
 
 
 
+
 ![1  카드 배분](https://user-images.githubusercontent.com/121847260/213597298-8c5087eb-f551-4c04-9030-aac7b8c8a7ba.png)
+
+
+![2  카드 선택](https://user-images.githubusercontent.com/121847260/213597323-0e902dc8-366e-4a07-bc75-0820be74ed7f.png)
+
+
+![3  카드 공개](https://user-images.githubusercontent.com/121847260/213597346-0cc219a0-4c8c-43b9-81cf-3520904a9acf.png)
+
+
+![4  게임 종료, 재시작](https://user-images.githubusercontent.com/121847260/213597348-d777a09e-4e84-4056-90f0-4cfc0b46b5f3.png)
+
+
+![4  카드 승부](https://user-images.githubusercontent.com/121847260/213597349-9083c906-3501-4d9e-8303-5317699c5b9b.png)
+
+
+![5  게임 포기](https://user-images.githubusercontent.com/121847260/213597351-bb7759ff-d32a-4cfa-a90a-13aa829bc864.png)
+
+
+![6  게임 종료](https://user-images.githubusercontent.com/121847260/213597352-92bfceaa-60e8-4feb-b9b4-fef1b9e1ad6f.png)
+
+
+![7  게임 재시작](https://user-images.githubusercontent.com/121847260/213597354-fd13c1be-4b88-409b-be1d-2e3c984e8b19.png)
