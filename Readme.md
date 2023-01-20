@@ -44,7 +44,7 @@
 ![2  카드 선택](https://user-images.githubusercontent.com/121847260/213597323-0e902dc8-366e-4a07-bc75-0820be74ed7f.png)
 
 
-![3  카드 공개](https://user-images.githubusercontent.com/121847260/213597346-0cc219a0-4c8c-43b9-81cf-3520904a9acf.png)
+![3  카드 공개](https://user-images.githubusercontent.com/121847260/213597801-1c413e2d-940b-4f89-88b4-89ec233ba514.png)
 
 
 ![4  카드 승부](https://user-images.githubusercontent.com/121847260/213597640-8bd3f505-5442-4fc9-9e63-c67322e740c8.png)
