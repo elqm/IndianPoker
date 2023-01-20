@@ -36,15 +36,5 @@
 그렇지 않을 경우, 그대로 카드 게임을 종료한다.
 
 
-![1  카드 패 배분, 수령, 선택](https://user-images.githubusercontent.com/121847260/213590606-5ac628d6-6553-4553-91ba-d1a4ed5c42e0.png)
 
-
-![2  카드 패 확인, 반응](https://user-images.githubusercontent.com/121847260/213590672-b5847eb6-fdad-4a10-b426-6866b84b3785.png)
-
-
-
-![3  게임 승부, 포기, 결과 보고(승리, 패배), 조롱](https://user-images.githubusercontent.com/121847260/213590682-005b2fc9-af6a-488b-9ed2-f1c7fdab5080.png)
-
-
-![4  게임 종료, 재시작](https://user-images.githubusercontent.com/121847260/213590693-39defedd-bdef-4d2c-b864-dd50cd4f678b.png)
-
+![1  카드 배분](https://user-images.githubusercontent.com/121847260/213597298-8c5087eb-f551-4c04-9030-aac7b8c8a7ba.png)
