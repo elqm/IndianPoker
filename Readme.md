@@ -38,22 +38,23 @@
 
 
 
-![1  카드 배분](https://user-images.githubusercontent.com/121847260/213597298-8c5087eb-f551-4c04-9030-aac7b8c8a7ba.png)
+![1  카드 배분](https://user-images.githubusercontent.com/121847260/213603275-ae56ff45-348b-4528-8904-73d0e1c795c8.png)
 
 
-![2  카드 선택](https://user-images.githubusercontent.com/121847260/213597323-0e902dc8-366e-4a07-bc75-0820be74ed7f.png)
+![2  카드 선택](https://user-images.githubusercontent.com/121847260/213603280-4b9c2578-8ad4-432b-a505-2714f1e45dd1.png)
 
 
-![3  카드 공개](https://user-images.githubusercontent.com/121847260/213600381-9bca9f17-2f9c-42c6-82e1-2da5f228ee79.png)
+![3  카드 공개](https://user-images.githubusercontent.com/121847260/213603282-a306a24f-4219-433c-abc0-61135e046a2a.png)
 
 
-![4  카드 승부](https://user-images.githubusercontent.com/121847260/213597640-8bd3f505-5442-4fc9-9e63-c67322e740c8.png)
+![4  게임 승부](https://user-images.githubusercontent.com/121847260/213603288-15063a5a-c9da-4275-8622-05995508adb5.png)
 
 
-![5  게임 포기](https://user-images.githubusercontent.com/121847260/213597351-bb7759ff-d32a-4cfa-a90a-13aa829bc864.png)
+![5  게임 포기](https://user-images.githubusercontent.com/121847260/213603289-ee80f663-d5a0-4d4d-ad21-d07dec19aaec.png)
 
 
-![6  게임 종료](https://user-images.githubusercontent.com/121847260/213597352-92bfceaa-60e8-4feb-b9b4-fef1b9e1ad6f.png)
+![6  게임 종료](https://user-images.githubusercontent.com/121847260/213603291-40644f2d-874d-4fee-ab10-14c95a2c3d36.png)
 
 
-![7  게임 재시작](https://user-images.githubusercontent.com/121847260/213597354-fd13c1be-4b88-409b-be1d-2e3c984e8b19.png)
+![7  게임 재시작](https://user-images.githubusercontent.com/121847260/213603294-a43a1947-2854-4dea-ae89-3ec6d0b94044.png)
+
